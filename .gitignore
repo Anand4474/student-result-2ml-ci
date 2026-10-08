@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+
+# Generated during training / CI
+student_results.csv
+student_result_model.pkl
+metrics.json
